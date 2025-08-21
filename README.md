@@ -3,8 +3,10 @@
 
 Acerca Del Proyecto: 
 
-Estas a punto de  pasar un rato de diversion con tus amigos, con este juego llamado amigo secreto elaborado en Javascrip, ya que el cual te permitira  sortear un amigo y si tu suerte esta de tu lado 
+Estas a punto de  pasar un rato de diversion y misterio  con tus amigos, con este juego elaborado en Javascrip, ya que el cual se te permitira  sortear una amigo de una lista genera previamnete  y en ese momento estaras listos para saber el amigo secreto que te saldra
 
 Como Jugarlo:
 
-En primer instante sera necesario escribir en el campo de añadir al menos el nombre de dos amigos y al dar click o presionarlo sera desplegaran en una lista, pero si al escribir 
+👍En primer instante sera necesario escribir en el campo de añadir al menos el nombre  dos amigos y al dar click o presionarlo se desplegaran en una lista, pero si al escribir un numero en ese campo 1.aparecera un mensaje de alerta  indicando  que no se permiten ingresar este tipo de dato.
+
+ 
