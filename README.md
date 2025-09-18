@@ -11,5 +11,5 @@ y podrás establecer varias formas de juego para ser lo más dinámico como por 
 
 👍En primer instante será necesario escribir en el campo de añadir al menos el nombre dos amigos y al dar click o presionarlo se desplegaran en una lista,pero si al escribir un numero en ese campo aparecerá un mensaje de alerta indicando que no se permiten ingresar este tipo de dato.
 
-👍 y ahora enseguida dar  click o presionar el botón sortear amigo y para ello aparecerá una frase diciendo el nombre del amigo secreto sorteado y  apartir de ese momento pasaran 20 segundos para que comience un nuevo juego 
+👍 y ahora enseguida dar  click o presionar el botón sortear amigo y asi para ello aparecerá una frase diciendo el nombre del amigo secreto sorteado y  apartir de ese momento pasaran 20 segundos para que comience un nuevo juego 
 ya que la lista de amigos desapareceráautomáticamente en ese tiempo e incluyendo también la frase que contiene el amigo sorteado.
