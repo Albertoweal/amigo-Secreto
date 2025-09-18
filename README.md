@@ -13,3 +13,5 @@ y podrás establecer varias formas de juego para ser lo más dinámico como por 
 
 👍 y ahora enseguida dar  click o presionar el botón sortear amigo y asi para ello aparecerá una frase diciendo el nombre del amigo secreto sorteado y  apartir de ese momento pasaran 20 segundos para que comience un nuevo juego 
 ya que la lista de amigos desapareceráautomáticamente en ese tiempo e incluyendo también la frase que contiene el amigo sorteado.
+
+<h2>  Enlace para jugar al amigo secreto </h2>
