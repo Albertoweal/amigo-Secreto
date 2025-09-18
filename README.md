@@ -14,6 +14,5 @@ el nombre de un amigo del que considere que probablemente saldrá al sortearlo y
 se desplegaran en una lista,pero si al escribir un numero en ese campo aparecerá un mensaje de alerta indicando que no se 
 permiten ingresar este tipo de dato.
 
-👍 y ahora enseguida dar  click o presionar el botón sortear amigo y aparecerá una frase diciendo el
-nombre del amigo secreto sorteado y a partir de ese momento pasaran 20 segundos para que comience un nuevo juego 
+👍 y ahora enseguida dar  click o presionar el botón sortear amigo y aparecerá una frase diciendo el nombre del amigo secreto sorteado y entonces apartir de ese momento pasaran 20 segundos para que comience un nuevo juego 
 ya que la lista de amigos desapareceráautomáticamente en ese tiempo e incluyendo también la frase que contiene el amigo sorteado.
